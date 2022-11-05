@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+
+
+            <item
+                android:id="@+id/action_configuraciones"
+                android:icon="@drawable/ic_toolbar_config"
+                android:title="Configuración"/>
+
+            <item
+                android:id="@+id/action_salir"
+                android:icon="@drawable/ic_toolbar_salir"
+                android:title="Cerrar sesión"/>
+
+            <item
+                android:id="@+id/action_info"
+                android:icon="@drawable/ic_toolbar_info"
+                android:title="Nosotros">
+            </item>
+
+            <item
+                android:id="@+id/action_acercade"
+                android:icon="@drawable/ic_toolbar_acercade"
+                android:title="Acerca de">
+            </item>
+
+
+</menu>
